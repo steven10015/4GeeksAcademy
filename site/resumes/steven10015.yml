@@ -1,0 +1,104 @@
+---
+Template: online-cv
+skin: blue
+basic_info:
+  first_name: Steven
+  last_name: Heredia
+  motto: I would like to improve.
+  focus: Learning data science.
+  summary: >
+    High school graduate with also an IB diploma. I am currently a
+    Biotechnology student in UAX Univeristy in Madrid.
+
+    Second paragraph if required.
+  avatar: https://randomuser.me/api/portraits/men/24.jpg
+  email: stevensebastianhq@gmail.com
+  phone: 234 2342 342
+  website: asd.com
+  linkedin: alandoe
+  github: example
+  twitter: webjeda
+  stack-overflow: null
+  languages:
+    - idiom: Spanish
+      level: Native
+    - idiom: English
+      level: Professional
+    - idiom: French
+      level: Professional
+  interests:
+    - item: Kickboxing
+    - item: Playing guitar
+    - item: Reading
+education:
+  - degree: Baccaluarate
+    high school: UEPRIM
+    university_logo: null
+    time: 2008 - 2021
+    details: >
+      Ueprim was my school/high-school institution along my childhood and
+      teenage years. A bilingual insitution that formed me and the base of my
+      knowledge for my future studies, as the election of university.
+  - degree: IB Diploma
+    university: UEPRIM
+    university_logo: null
+    time: 2019 - 2021
+    details: >
+      During my last two years in UEPRIM, I was part of the IB program they
+      offered. This proved me high quality preparation in certain subjects such
+      as Biology, Spanish or English accompained with the realization of
+      throughly reviewed projects in each of this areas. I successfully earned
+      the required credits to obtain the IB diploma.
+experiences:
+  - role: null
+    time: null
+    company: null
+    company_logo:
+      - Bullet point
+      - Bullet point
+  - role: null
+    time: null
+    company: null
+    company_logo:
+      - Bullet point
+      - Bullet point
+  - role: null
+    time: null
+    company: null
+    company_logo: null
+    details: |
+      
+      - Bullet point
+      - Bullet point
+projects:
+  intro: ""
+  assignments:
+    - title: Velocity
+      project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      link: "#hook"
+      tagline: A responsive website template designed to help startups promote, market
+        and sell their products.
+    - title: DevStudio
+      project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      link: "#"
+      tagline: A responsive website template designed to help web developers/designers
+        market their services.
+    - title: Tempo
+      project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      link: "#"
+      tagline: A responsive website template designed to help startups promote their
+        products or services and to attract users &amp; investors
+    - title: Atom
+      project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      link: "#"
+      tagline: A comprehensive website template solution for startups/developers to
+        market their mobile apps.
+    - title: Delta
+      project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      link: "#"
+      tagline: A responsive Bootstrap one page theme designed to help app developers
+        promote their mobile apps
+skills:
+  toolset:
+    - name: Python
+      level: 15%
